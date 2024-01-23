@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test-bilingual</title>
+    <url>/2024/01/24/test-bilingual/</url>
+    <content><![CDATA[<p>nihao</p>
+<p>this is to test the bilingual function.</p>
+]]></content>
+      <categories>
+        <category>keep</category>
+      </categories>
+      <tags>
+        <tag>bilingual</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Welcome to use Hexo Theme Keep</title>
     <url>/2022/10/25/welcome-to-use-hexo-theme-keep/</url>
     <content><![CDATA[<p>Welcome to use Hexo Theme Keep.</p>
